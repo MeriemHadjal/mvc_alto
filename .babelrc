@@ -1,0 +1,5 @@
+{//on récupère les infos qui nous indique que l'n est soit en production soit en développement
+    "presets": [
+        "@babel/preset-env" 
+    ]
+}

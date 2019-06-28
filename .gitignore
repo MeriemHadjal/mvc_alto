@@ -1,0 +1,6 @@
+node_modules/  
+vendor/
+.env
+composer.lock
+yarn-error.log
+yarn.lock
